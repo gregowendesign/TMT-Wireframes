@@ -1,0 +1,22 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+	<!-- the <head> content -->
+	{% include "head" %}
+
+	<body>
+
+		<!-- opens the off-screen nav containers -->
+		{% include "nav-wrap-open" %}
+
+		<!-- any page with a file name's content goes in here -->
+		{% block content %}{% endblock %}
+		
+		<!-- closes the off-screen nav containers -->
+		{% include "nav-wrap-close" %}
+
+		<!-- any added scripts -->
+  	{% include "scripts" %}
+
+	</body>
+</html>
