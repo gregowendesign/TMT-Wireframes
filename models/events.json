@@ -1,0 +1,53 @@
+{
+	"title": "Events",
+	"description": "Here you'll find all the upcoming events from The Mustard Tree and it;s projects.",
+	"events": [
+		{
+			"name": "Volunteer Meet-up",
+			"date": "01.01.2014",
+			"description": "A Rahab event for volunteers."
+		},
+		{
+			"name": "Abortion Councelling",
+			"date": "01.01.2014",
+			"description": "A Lifeline event for fundraising."
+		},
+		{
+			"name": "Become a sponsor",
+			"date": "01.01.2014",
+			"description": "A Starting Point event for awareness."
+		},
+		{
+			"name": "Why locality is important",
+			"date": "01.01.2014",
+			"description": "An Engage Befriending event for education."
+		},
+		{
+			"name": "Reading Half-Marathon",
+			"date": "01.01.2014",
+			"description": "A Mustard Tree event for fundraising."
+		}
+	],
+	"news": [
+		{
+			"name":"News 1",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News 2",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News 3",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News 4",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News 5",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		}
+	]
+}

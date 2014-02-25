@@ -1,0 +1,25 @@
+{
+	"title": "Projects",
+	"projects": [
+		{
+			"name": "Rahab",
+			"description": "‘Restoring All Hope And Belief’: awareness, support & empowerment – tackling sexual exploitation."
+		},
+		{
+			"name": "Lifeline",
+			"description": "Counselling for post-abortion, post-miscarriage & post-baby loss; crisis pregnancy advice & support."
+		},
+		{
+			"name": "Starting Point",
+			"description": "1-2-1 mentoring for 16-25 yr olds who are NEET."
+		},
+		{
+			"name": "Engage Befriending",
+			"description": "Localised befriending for isolated, elderly people in the Reading area."
+		},
+		{
+			"name": "Let's Grow",
+			"description": "A horticultural project for 16-25 yr olds who are NEET, improving work readiness."
+		}
+	]
+}

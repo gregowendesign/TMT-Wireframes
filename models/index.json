@@ -1,0 +1,76 @@
+{
+	"title": "The Mustard Tree",
+	"tag": "The Mustard Tree Foundation is a family of projects seeking to be a voice for the unheard. We strive to identify, support and empower the marginalised, misunderstood and overlooked in our community.",
+	"events": [
+		{
+			"name": "Volunteer Meet-up",
+			"date": "01.01.2014",
+			"description": "A Rahab event for volunteers."
+		},
+		{
+			"name": "Abortion Councelling",
+			"date": "01.01.2014",
+			"description": "A Lifeline event for fundraising."
+		},
+		{
+			"name": "Become a sponsor",
+			"date": "01.01.2014",
+			"description": "A Starting Point event for awareness."
+		},
+		{
+			"name": "Why locality is important",
+			"date": "01.01.2014",
+			"description": "An Engage Befriending event for education."
+		},
+		{
+			"name": "Reading Half-Marathon",
+			"date": "01.01.2014",
+			"description": "A Mustard Tree event for fundraising."
+		}
+	],
+	"projects": [
+		{
+			"name": "Rahab",
+			"description": "‘Restoring All Hope And Belief’: awareness, support & empowerment – tackling sexual exploitation."
+		},
+		{
+			"name": "Lifeline",
+			"description": "Counselling for post-abortion, post-miscarriage & post-baby loss; crisis pregnancy advice & support."
+		},
+		{
+			"name": "Starting Point",
+			"description": "1-2-1 mentoring for 16-25 yr olds who are NEET."
+		},
+		{
+			"name": "Engage Befriending",
+			"description": "Localised befriending for isolated, elderly people in the Reading area."
+		},
+		{
+			"name": "Let's Grow",
+			"description": "A horticultural project for 16-25 yr olds who are NEET, improving work readiness."
+		}
+	],
+	"news": [
+		{
+			"name":"News title 1",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News title 2",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News title 3",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News title 4",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"name":"News title 5",
+			"excerpt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		}
+	]
+}
+
